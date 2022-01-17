@@ -1,0 +1,76 @@
+body {
+    background-color: #e5e5e5;
+    font-family: 'Roboto', sans-serif;
+    color: #14213d;
+}
+
+.inactiveLink {
+    pointer-events: none;
+    cursor: default;
+}
+
+.navbar-brand {
+    font-size: xx-large ;
+}
+
+h2.display-1 {
+    font-weight: bolder;
+    font-size: 7rem;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .col-xl-3 {
+    width: 20%;
+} */
+
+.sidebar-item {
+    font-size: 1.2rem;
+    /* border-bottom: 0.1rem solid #f0f2f5; */
+}
+
+.avatar_ {
+    max-width: 80%;
+}
+
+.main_headings {
+    font-weight: bold;
+    margin: 3rem 0;
+}
+
+.main_headings:nth-last-child() {
+    margin: 0;
+    font-weight: bold;
+}
+
+.sub_heading {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.email_card {
+    font-size: 0.8rem;
+}
+
+.button_palette_yellow {
+    background-color: #fca311;
+}
+
+.nav-item:hover {
+    transform: translateY(-0.1em);
+}
+
+.nav-item:hover {
+    transform: translateY(-0.1em);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.school {
+    font-weight: bold;
+}
